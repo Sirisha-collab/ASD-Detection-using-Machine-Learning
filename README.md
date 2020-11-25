@@ -10,11 +10,14 @@ STEPS:
 4) Data Visualization 
 5) Statistical modelling
 6) Accuracy
+7) Create GUI for Questionnaire Survey
 
 DEPENDENCIES:
-Pandas
-Sklearn
+Pandas 
+Sklearn 
 Numpy
+Tkinter
+Random
 Accuracy= (TP + TN)/(TP + TN + FP + FN) 
 
 
