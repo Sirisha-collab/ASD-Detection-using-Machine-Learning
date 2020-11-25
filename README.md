@@ -23,10 +23,10 @@ Accuracy= (TP + TN)/(TP + TN + FP + FN)
 ![asd1](https://user-images.githubusercontent.com/61550451/100184761-39bf1500-2f08-11eb-91c5-75edf2dbf9a0.JPG)
 
 # Questionnaire Survey
-![asd2](https://user-images.githubusercontent.com/61550451/100184899-8c003600-2f08-11eb-85bb-38e99b04e98b.JPG)
+![asd2](https://user-images.githubusercontent.com/61550451/100185121-10eb4f80-2f09-11eb-8989-fab65dacf3e8.JPG)
 
 # Output
-![asd3](https://user-images.githubusercontent.com/61550451/100184947-a508e700-2f08-11eb-926d-7fdd806b0e56.JPG)
+![asd3](https://user-images.githubusercontent.com/61550451/100185126-134da980-2f09-11eb-9b32-ed6e9a136ca2.JPG)
 
 # Comparsion
 ![asd4](https://user-images.githubusercontent.com/61550451/100184988-bd790180-2f08-11eb-8828-f4458871aafa.JPG)
