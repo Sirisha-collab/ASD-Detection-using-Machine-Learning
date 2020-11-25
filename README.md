@@ -20,4 +20,4 @@ Tkinter
 Random
 Accuracy= (TP + TN)/(TP + TN + FP + FN) 
 
-
+![asd1](https://user-images.githubusercontent.com/61550451/100184761-39bf1500-2f08-11eb-91c5-75edf2dbf9a0.JPG)
